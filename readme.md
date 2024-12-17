@@ -11,10 +11,11 @@ This document outlines the project's progress, addresses both resolved and ongoi
 
 **Closed Issues**:
 1. [Issue#1](https://github.com/aGreekGeek/Homework10/issues/1)
-2. [Issue#3](https://github.com/aGreekGeek/Homework10/issues/3)
-3.
-4.
+2.
+3. [Issue#3](https://github.com/aGreekGeek/Homework10/issues/3)
+4. [Issue#4](https://github.com/aGreekGeek/Homework10/issues/4)
 5.
+
 
 **Dockerhub Image**
 
