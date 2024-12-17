@@ -74,7 +74,7 @@ class UserResponse(UserBase):
     last_login_at: Optional[datetime]
 
 class LoginRequest(BaseModel):
-    usernameField(..., example="john.doe@example.com")
+    username: str = Field(..., example="john.doe@example.com")
     password: str = Field(..., example="Secure*1234")
 
 class ErrorResponse(BaseModel):
